@@ -1,5 +1,4 @@
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
-  <img src="./assets/land.png" alt="Landing with parachute" width="140">
   <div>
     <h1>🚀 Ispace Flight Computer Project</h1>
     <p><strong>Welcome to the Ispace Flight Computer project!</strong><br>
@@ -71,9 +70,9 @@ The flight computer is built around the **ESP32**, supported by essential module
 ## ✨ Project Visuals
 
 <p align="center">
-  <img src="./assets/rocket.png" alt="Rocket photo" width="400"/>
+  <img src="assets/rocket.png"  alt="Rocket photo" width="400"/>
+  <img src="./assets/land.png"  alt="Rocket photo" width="400"/>
 </p>
-
 <p align="center">
   <em>Launch & Glory – The Ispace Rocket on a mission</em>
 </p>
