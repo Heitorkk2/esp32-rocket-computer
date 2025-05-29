@@ -1,10 +1,11 @@
-<p align="right">
-  <img src="./assets/land.png" alt="Landing with parachute" width="140"/>
-</p>
-
-# 🚀 Ispace Flight Computer Project
-**Welcome to the Ispace Flight Computer project!**  
-This repository contains the development of a modular and evolving **ESP32-based flight computer system**, tracking progress from a simple HTML telemetry server to a fully integrated mobile telemetry platform.
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
+  <img src="./assets/land.png" alt="Landing with parachute" width="140">
+  <div>
+    <h1>🚀 Ispace Flight Computer Project</h1>
+    <p><strong>Welcome to the Ispace Flight Computer project!</strong><br>
+    This repository contains the development of a modular and evolving <strong>ESP32-based flight computer system</strong>, tracking progress from a simple HTML telemetry server to a fully integrated mobile telemetry platform.</p>
+  </div>
+</div>
 
 ---
 
@@ -29,7 +30,6 @@ In **Version 1**, the ESP32 creates a local Wi-Fi Access Point and hosts a basic
 
 - **Functionality:** Embedded web server on ESP32  
 - **Data Format:** HTML  
-- **Status:** 🧓 Legacy  
 - **Code Location:** `./V1/`
 
 🔍 For more details, check the README inside the `V1` folder.
@@ -50,7 +50,6 @@ In **Version 1**, the ESP32 creates a local Wi-Fi Access Point and hosts a basic
 - **Flutter App Repository:**  
   [🌐 github.com/Heitorkk2/Ispace-receiver](https://github.com/Heitorkk2/Ispace-receiver)
 - **Code Location:** `./V2/`  
-- **Status:** ✅ Recommended & Maintained
 
 ---
 
@@ -82,11 +81,11 @@ The flight computer is built around the **ESP32**, supported by essential module
 ---
 
 ## 🤝 Contribution
-We love collabs! 💖 Feel free to fork, improve, or suggest features.  
+💖 Feel free to fork, improve, or suggest features.  
 Each version contains its own README and architecture notes — please refer to them for specific guidance.
 
 ---
 
 <p align="center">
-  Made with ❤️ and microcontroladores by <strong>Heitor</strong> + <strong>Yunna</strong> (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)✧⁠*⁠。🚀
+  Made with ❤️ and esp32 by <strong>Heitorkk2</strong> (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)✧⁠*⁠。🚀 
 </p>
