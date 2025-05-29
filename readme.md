@@ -22,7 +22,7 @@ The system has evolved through two main versions:
 ## 🕸️ Version 1: HTML Telemetry (Legacy)
 
 <p align="center">
-  <img src="./V1/assets/html.png" alt="HTML Telemetry" width="300"/>
+  <img src="./V1/assets/html.png" alt="HTML Telemetry" height="300"/>
 </p>
 
 In **Version 1**, the ESP32 creates a local Wi-Fi Access Point and hosts a basic HTML page displaying live sensor data.
@@ -38,7 +38,7 @@ In **Version 1**, the ESP32 creates a local Wi-Fi Access Point and hosts a basic
 ## 📱 Version 2: JSON + Flutter App (Current)
 
 <p align="center">
-  <img src="./V2/assets/appUI.png" alt="Flutter UI" width="300"/>
+  <img src="./V2/assets/appUI.png" alt="Flutter UI" height="300"/>
 </p>
 
 **Version 2** brings a major upgrade — pairing the ESP32 with a modern **Flutter mobile app** that consumes telemetry in **JSON** format.
@@ -70,8 +70,8 @@ The flight computer is built around the **ESP32**, supported by essential module
 ## ✨ Project Visuals
 
 <p align="center">
-  <img src="assets/rocket.png"  alt="Rocket photo" width="400"/>
-  <img src="./assets/land.png"  alt="Rocket photo" width="400"/>
+  <img src="assets/rocket.png"  alt="Rocket photo" height="250" />
+  <img src="./assets/land.png"  alt="Rocket photo" height="250"/>
 </p>
 <p align="center">
   <em>Launch & Glory – The Ispace Rocket on a mission</em>
